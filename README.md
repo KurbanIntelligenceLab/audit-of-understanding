@@ -44,7 +44,7 @@ cd audit-of-understanding
 Download all required dependencies 
 
 
-### 3. Creating output directory  the Dataset
+### 3. Creating output directory
 
 ```bash
 mkdir output
