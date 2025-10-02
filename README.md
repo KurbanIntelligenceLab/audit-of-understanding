@@ -50,7 +50,7 @@ Download all required dependencies
 mkdir output
 ```
 
-### 4. Login to huggingface through terminal (ensure that you have access to all required models to run experiment)
+### 4. Login to huggingface using private key (ensure that you have access to all required models to run experiment)
 
 ```bash
 !huggingface-cli login
